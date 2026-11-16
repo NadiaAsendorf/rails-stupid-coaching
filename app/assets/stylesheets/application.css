@@ -8,3 +8,22 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+ body {
+  background-color: #f9f6fc;
+}
+.btn-primary {
+  background-color: hotpink;
+}
+
+body {
+  padding-top: 40px;
+}
+
+.verticalLine {
+  border-left: thick solid #b6b4b4;
+  padding-left: 10px;
+}
+
+.yellow_background {
+  background-color: lightyellow;
+}
